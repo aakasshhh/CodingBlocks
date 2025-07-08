@@ -58,7 +58,7 @@
 // console.log(greeting("Aakash",30000,fee))
 
 // console.log(StudentDetails("CHOTU",60000));
-// console.log(EMI(60000));
+// console.log(EMI(60000)); 
 // console.log(greeting("CHOTU",60000,fee))
 // console.log(negotiate(fee));
 
