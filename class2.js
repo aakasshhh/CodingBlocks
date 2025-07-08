@@ -12,7 +12,7 @@
 // function checkMenu(cb){
 //     console.log("I am checking the menu");
 //     setTimeout(cb, 2000);
-// }
+// } 
 
 // function orderFood(cb){
 //     console.log("I am ordering the food");
