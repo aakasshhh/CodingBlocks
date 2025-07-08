@@ -8,7 +8,7 @@
 // // var sumofTwo = ()=>{
 // //     console.log('Sum of two elements');
 // // }
-// // calculate(sumofTwo)
+// // calculate(sumofTwo) 
 
 // // function calculate(logicfunction,a,b){  //MAIN HIGHER ORDER FUNCTION
 // //     return logicfunction(a,b);
