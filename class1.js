@@ -8,7 +8,7 @@
 // // var sumofTwo = ()=>{
 // //     console.log('Sum of two elements');
 // // }
-// // calculate(sumofTwo)
+// // calculate(sumofTwo) 
 
 // // function calculate(logicfunction,a,b){  //MAIN HIGHER ORDER FUNCTION
 // //     return logicfunction(a,b);
@@ -58,7 +58,7 @@
 // console.log(greeting("Aakash",30000,fee))
 
 // console.log(StudentDetails("CHOTU",60000));
-// console.log(EMI(60000));
+// console.log(EMI(60000)); 
 // console.log(greeting("CHOTU",60000,fee))
 // console.log(negotiate(fee));
 

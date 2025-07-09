@@ -6,7 +6,7 @@
 // //prototypes in js
 // let arr=[2,4,5,6,7,8];
 // let arr2=[5,5,5,6,7,8];
-// function doubleData(x){
+// function doubleData(x){ 
 //     return x*x;
 // }
 // Array.prototype.mapReplica=function(logic){
